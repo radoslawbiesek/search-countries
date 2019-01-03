@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #EFEBE9;
+    color: #3E2723;
+    font-family: Verdana, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 0.5em 0;
+}
+
+h1, h2 {
+    margin: 2em 0 1em 0;
+}
